@@ -26,4 +26,12 @@
 .content__description > p{
   margin-top: 20px;
   color: rgb(198, 197, 197);
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.content__description > a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
